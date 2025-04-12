@@ -1,0 +1,13 @@
+{
+	"id": "DrunkJimbo",
+	"name": "Drunk Jimbo",
+	"author": ["Metaflame, Ithanias"],
+	"description": "Jimbo had one too many whiskeys on the house. Replaces Jimbo's voice clips with drunk noises from TF2's demoman.",
+	"prefix": "drunk_jimbo",
+	"badge_colour": "8e0707",
+	"dependencies": [
+		"Steamodded (>=1.0.0~ALPHA-1404b)"
+	],
+	"main_file": "main.lua",
+	"version": "0.0.1"
+}
